@@ -1,0 +1,138 @@
+body {
+  font-family: Verdana;
+  background-color: #E8DEDE;
+  margin: 0;
+  padding: 0;
+}
+
+.registrationContainer {
+  max-width: 360px;
+  padding: 30px;
+}
+
+.btn {
+  display: inline-block;
+  width: 100%;
+  padding: 12px;
+  text-align: center;
+  font-size: 15px;
+  font-family: Tahoma;
+  border-radius: 20px;
+  margin: 12px 4px;
+  position: relative;
+  top: 360px;
+}
+.button1 {
+  background-color: #6EAF6A; 
+  color: rgb(255, 255, 255); 
+}
+
+.button2 {
+  text-align: right;
+  background-color: #E8DEDE; 
+  color: black; 
+  border: 2px solid #000000;
+}
+
+.button3 {
+  background-color:#E8DEDE; 
+  color: black; 
+  border: 2px solid #000000;
+}
+
+
+.signUpRegFormContainer{
+  max-width: 300px;
+  padding: 20px;
+}
+
+h1{
+  font-family: "Century Gothic";
+  font-weight: 10;
+  color: #467490;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+p{
+  font-size: 12px;
+  color: #CE8850;
+  font-family: "Century Gothic";
+  position: relative;
+  top: 60px;
+  text-align: left;
+}
+
+.signFormGroup {
+  margin-bottom: 15px;
+  position: relative;
+  top: 70px;
+}
+
+label {
+  display: block;
+  font-family: "Century Gothic";
+  font-size: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid #66666665;
+  margin-top: 10px;
+  font-family: "Century Gothic";
+  font-size: 12px;
+}
+
+.errorMessage {
+  color: rgb(102, 4, 4);
+  font-size: 12px;
+  margin-top: 5px;
+  font-family: "Century Gothic";
+}
+
+.button4{
+  margin: 12px 8px;
+  margin-top: 100px;
+  width: 100%;
+  padding: 8px;
+  background-color: #E8DEDE; 
+  color: black; 
+  border: 1px solid #000000;
+  font-family: "Century Gothic";
+}
+
+.backSvg{
+  fill: #9e6333;;
+  width: 30px;
+  height: 30px;
+}
+
+.backButtonContainer{
+  background-color: #E8DEDE;
+  border: 1px solid #E8DEDE;
+}
+
+.loginRegFormContainer{
+  max-width: 300px;
+  padding: 20px;
+}
+.button5{
+  margin: 12px 8px;
+  margin-top: 100px;
+  width: 100%;
+  padding: 8px;
+  background-color: #E8DEDE; 
+  color: black; 
+  border: 1px solid #000000;
+  font-family: "Century Gothic";
+}
+
+.loginFormGroup {
+  margin-bottom: 15px;
+  position: relative;
+  top: 70px;
+}
